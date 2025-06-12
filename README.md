@@ -1,6 +1,7 @@
-# 🍽️ Restaurant Business Segmentation (Zomato Dataset)
+# 🍽️ Segmentation of Restaurant Business Models with Machine Learning (Zomato Dataset)
 
-Segmented ~800+ restaurants from Indian metropolitan areas using clustering techniques to uncover business categories relevant to POS and food-tech platforms.
+Segmented 806 unique restaurants from Indian metropolitan areas using unsupervised machine learning to uncover distinct business models.
+Applied clustering techniques on real-world Zomato data to derive operational categories relevant to food-tech, POS systems, and market strategy.
 
 ## 🎯 Data & Features
 - **Dataset**: Restaurants of Metropolitan cities CSV (https://www.kaggle.com/datasets/narsingraogoud/zomato-restaurants-dataset-for-metropolitan-areas)
