@@ -3,7 +3,7 @@
 Segmented ~900+ restaurants from Indian metropolitan areas using clustering techniques to uncover business categories relevant to POS and food-tech platforms.
 
 ## 🎯 Data & Features
-- **Dataset**: Zomato metro restaurant CSV (Kaggle)
+- **Dataset**: Restaurants of Metropolitan cities CSV (https://www.kaggle.com/datasets/narsingraogoud/zomato-restaurants-dataset-for-metropolitan-areas)
 - **Features**: Dining Rating, Delivery Rating, Dining Votes, Delivery Votes, Price for two
 
 ## 🛠️ Approach
